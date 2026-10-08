@@ -11,4 +11,5 @@
 | CSE4187 | [캡스톤디자인](https://github.com/hajijiha/CSE4187-Capstone-Design) | 2026-1 | RAGstar: OOM 장애 진단 프로젝트 소개, 설계·발표 자료와 팀 원본 저장소 |
 | CSE4103 | [커넥티드플랫폼이론과실제](https://github.com/hajijiha/CSE4103-Connected-Platform) | 2026-2 | prj1: webOS Subscription Management Dashboard |
 
-각 과목 저장소의 `prj1`, `prj2` 또는 `mp1`, `mp2` 폴더에 구현 소스, 실행 방법과 관련 자료가 있습니다.
+각 프로젝트의 README에 구현 내용, 실행 방법과 관련 자료가 있습니다.
+RAGstar의 구현 코드는 팀 저장소에서 관리합니다.
