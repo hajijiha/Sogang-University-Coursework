@@ -8,8 +8,7 @@
 | CSE4070 | [운영체제](https://github.com/hajijiha/CSE4070-Operating-Systems) | 2025-2 | Pintos Project 1~4: User Program I·II, Threads, Virtual Memory |
 | CSE4120 | [기초컴파일러구성](https://github.com/hajijiha/CSE4120-Compiler-Construction) | 2025-2 | Project 1~3: Type Checking, IR Generation, IR Optimization |
 | CSE4175 | [컴퓨터네트워크](https://github.com/hajijiha/CSE4175-Computer-Networks) | 2026-1 | MP1 Reliable Data Transfer, MP2 Dynamic Routing |
-| CSE4187 | [캡스톤디자인](https://github.com/hajijiha/CSE4187-Capstone-Design) | 2026-1 | RAGstar: OOM 장애 진단 프로젝트 소개, 설계·발표 자료와 팀 원본 저장소 |
+| CSE4187 | [캡스톤디자인](https://github.com/hajijiha/CSE4187-Capstone-Design) | 2026-1 | RAGstar: 온프레미스 OOM 장애 진단 시스템 |
 | CSE4103 | [커넥티드플랫폼이론과실제](https://github.com/hajijiha/CSE4103-Connected-Platform) | 2026-2 | prj1: webOS Subscription Management Dashboard |
 
 각 프로젝트의 README에 구현 내용, 실행 방법과 관련 자료가 있습니다.
-RAGstar의 구현 코드는 팀 저장소에서 관리합니다.
